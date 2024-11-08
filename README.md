@@ -17,4 +17,4 @@ We apply our algorithm to a simple consumption-saving problem with multiple shoc
 
 **Link:** [2024_Diffusions_for_time_series](https://github.com/tssorokina/portfolio/tree/main/2024_Diffusions_for_time_series)
 
-**Note:** only slides with consept presentation are available.
+**Note:** only slides with concept presentation are available.
